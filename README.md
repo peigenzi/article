@@ -17,10 +17,12 @@
 * [【进阶3-3期】深度广度解析 call 和 apply 原理、使用场景及实现](https://github.com/yygmind/blog/issues/22)
 * [【进阶3-4期】深度解析bind原理、使用场景及模拟实现](https://github.com/yygmind/blog/issues/23)
 * [【进阶3-5期】深度解析 new 原理及模拟实现](https://github.com/yygmind/blog/issues/24)
+* [【进阶4-1期】详细解析赋值、浅拷贝和深拷贝的区别](https://github.com/yygmind/blog/issues/25)
+* [【进阶4-2期】Object.assign 原理及其实现](https://github.com/yygmind/blog/issues/26)
 
 
 
-#### 博文
+#### 其他博文
 
 * [Vue 进阶系列（三）之Render函数原理及实现](https://github.com/yygmind/blog/issues/10)
 * [Vue 进阶系列（二）之插件原理及实现](https://github.com/yygmind/blog/issues/9)
@@ -29,29 +31,20 @@
 * [2018大厂高级前端面试题汇总](https://github.com/yygmind/blog/issues/5)
 * [JS数组常用算法详解](https://github.com/yygmind/blog/issues/4)
 * [HTML和CSS常见问题整理](https://github.com/yygmind/blog/issues/3)
-* [JS异步之Async](https://github.com/yygmind/blog/issues/1)
+
+
+
+#### 项目难点系列
+
+* [我遇过的最难的Cookie问题](https://github.com/aszx87410/blog/issues/17)
 
 
 
 #### 优质资料汇总
 
-* [优质资料汇总](https://github.com/yygmind/blog/blob/master/datum/%E4%BC%98%E8%B4%A8%E8%B5%84%E6%96%99%E6%B1%87%E6%80%BB.md)
+* [优质资料汇总](https://github.com/yygmind/blog/blob/master/datum/summary.md)
 
 
-
-#### 每周查漏补缺
-
-* [查漏补缺 18.10.05-18.10.21](https://github.com/yygmind/blog/blob/master/articles/%E6%9F%A5%E6%BC%8F%E8%A1%A5%E7%BC%BA%2018.10.15-18.10.21.md)
-* [查漏补缺 18.10.08-18.10.14](https://github.com/yygmind/blog/blob/master/articles/%E6%9F%A5%E6%BC%8F%E8%A1%A5%E7%BC%BA%2018.10.08-18.10.14.md)
-
-
-
-#### 每日阅读
-
-* [11月每日阅读](https://github.com/yygmind/blog/blob/master/daily%20reading/2018.11.md)
-* [10月每日阅读](https://github.com/yygmind/blog/blob/master/daily%20reading/2018.10.md)
-
- 
 
 
 #### 交流
