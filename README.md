@@ -19,10 +19,16 @@
 * [【进阶3-5期】深度解析 new 原理及模拟实现](https://github.com/yygmind/blog/issues/24)
 * [【进阶4-1期】详细解析赋值、浅拷贝和深拷贝的区别](https://github.com/yygmind/blog/issues/25)
 * [【进阶4-2期】Object.assign 原理及其实现](https://github.com/yygmind/blog/issues/26)
+* [【进阶4\-3期】面试题之如何实现一个深拷贝](https://github.com/yygmind/blog/issues/29)
+* [【进阶4\-4期】Lodash是如何实现深拷贝的](https://github.com/yygmind/blog/issues/31)
 
 
 
 #### 其他博文
+
+* [精华提炼「你不知道的 JavaScript」之作用域和闭包](https://github.com/yygmind/blog/issues/30)
+
+* [前端大神 Winter 直播笔记及我的学习方法论](https://github.com/yygmind/blog/issues/28)
 
 * [Vue 进阶系列（三）之Render函数原理及实现](https://github.com/yygmind/blog/issues/10)
 * [Vue 进阶系列（二）之插件原理及实现](https://github.com/yygmind/blog/issues/9)
@@ -37,6 +43,8 @@
 #### 项目难点系列
 
 * [我遇过的最难的Cookie问题](https://github.com/aszx87410/blog/issues/17)
+* [Vue 项目里戳中你痛点的问题及解决办法](https://juejin.im/post/5b174de8f265da6e410e0b4e)
+* [Canvas性能优化](https://juejin.im/post/5ba478136fb9a05d151ca173)
 
 
 

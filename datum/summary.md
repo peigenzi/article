@@ -1,6 +1,8 @@
+[TOC]
+
+
+
 # 优质资料汇总
-
-
 
 ## 资料合集
 
@@ -11,6 +13,7 @@
 * [clean\-code\-javascript](https://github.com/ryanmcdermott/clean-code-javascript)：JavaScript 代码简洁之道
 * [博客 Dmitry Soshnikov](http://dmitrysoshnikov.com/)：讨论ES3，ES5语言的技术原理，包括：this，作用域链，函数，闭包，词法环境等
 * [how\-javascript\-works](https://github.com/Troland/how-javascript-works)：译文，此文作者非json之父，不过评价也不错
+* [professional\-programming](https://github.com/charlax/professional-programming)：开源的全栈编程资源合集
 
 
 
@@ -51,22 +54,34 @@
 ## 计算机基础
 
 * [Stack的三种含义](http://www.ruanyifeng.com/blog/2013/11/stack.html)：介绍 “调用栈” 和 “内存栈“ 的区别
+* [抽象语法树在 JavaScript 中的应用](https://tech.meituan.com/2014/10/08/the-practice-of-abstract-syntax-trees-in-javascript.html)
+* [通过开发 Babel 插件理解抽象语法树（AST）](https://www.zcfy.cc/article/understanding-asts-by-building-your-own-babel-plugin)
+* [AST 业界实现收集整理](https://toutiao.io/posts/34uurs/preview)
 
 
 
 ## CSS
 
 * [CSS Inspiration](https://github.com/chokcoco/CSS-Inspiration)：寻找到使用 CSS 的灵感，以分类的形式，展示不同 CSS 属性或者不同的课题。
+* [16种方法实现水平居中垂直居中](https://juejin.im/post/58f818bbb123db006233ab2a)
 
 
 
 ## JavaScript
+
+### 原型
+
+* [详解JS原型链与继承](http://louiszhai.github.io/2015/12/15/prototypeChain/)
+* [JavaScript 世界万物诞生记](https://zhuanlan.zhihu.com/p/22989691)
+
+
 
 ### Promise
 
 - [小邵教你玩转promise源码](https://juejin.im/post/5b6e5cbf51882519ad61b67e)
 
 - [剖析Promise内部结构，一步一步实现一个完整的、能通过所有Test case的Promise类 ](https://github.com/xieranmaya/blog/issues/3)
+
 
 
 ### Event Loop
@@ -77,54 +92,64 @@
 
 * [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89#comment)
 
+  
+
 
 ### 其他
 
 - [this、apply、call、bind](https://juejin.im/post/59bfe84351882531b730bac2)
 - [js 深拷贝 vs 浅拷贝](https://juejin.im/post/59ac1c4ef265da248e75892b)
 - [深拷贝的终极探索（99%的人都不知道）](https://segmentfault.com/a/1190000016672263)
-- [JavaScript 世界万物诞生记](https://zhuanlan.zhihu.com/p/22989691)
 - [JavaScript专题之函数柯里化](https://github.com/mqyqingfeng/Blog/issues/42)
 - [看看这些被同事喷的JS代码风格你写过多少](https://juejin.im/post/5becf928f265da61380ec986)
 - [[译] 使用原生 JavaScript 构建状态管理系统](https://juejin.im/post/5b763528e51d45559e3a5b64)
 - [前端中的 IoC 理念](https://juejin.im/post/5c2c47dcf265da616d544a53#comment)
+- [深入 CommonJs 与 ES6 Module](https://segmentfault.com/a/1190000017878394)
+- [Canvas性能优化](https://juejin.im/post/5ba478136fb9a05d151ca173)
+- [Why never use new Array in Javascript](https://coderwall.com/p/h4xm0w/why-never-use-new-array-in-javascript)
+- [JavaScript数组所有API全解密](https://juejin.im/post/5902d56e1b69e60058c634d6#comment)
 
 
 
 ## 浏览器
 
 * [浏览器渲染详细过程：重绘、重排和 composite 只是冰山一角](https://juejin.im/entry/590801780ce46300617c89b8)
-
 * [深入理解浏览器的缓存机制](https://juejin.im/post/5b014aa66fb9a07ac23b04c8)
-
 * [一文读懂前端缓存](https://zhuanlan.zhihu.com/p/44789005)
-
 * [我遇过的最难的Cookie问题](https://github.com/aszx87410/blog/issues/17)
+* [从输入URL到页面加载的过程？如何由一道题完善自己的前端知识体系！](https://juejin.im/post/5aa5cb846fb9a028e25d2fb1)
+* [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://juejin.im/post/5a6547d0f265da3e283a1df7)
 
-* [从输入URL到页面加载的过程？如何由一道题完善自己的前端知识体系！](http://www.dailichun.com/2018/03/12/whenyouenteraurl.html)
 
 
 ## React
 
 * [React 源码剖析系列 － 不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379)
+* [React中setState同步更新策略](https://zhuanlan.zhihu.com/p/24781259)
+* [[译] React setState 的麻烦事儿](https://ruby-china.org/topics/32715)
 
 
 
 ## Vue
 
 * [Blazing Fast HTML](https://elm-lang.org/blog/blazing-fast-html-round-two) elm 实现了新的 diff 算法
+* [Vue\.js 源码解析](https://github.com/answershuto/learnVue)
 
 
 
 ## NodeJS
 
 * [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
+* [深入浅出 Koa](https://github.com/berwin/Blog/issues/8)
+* [深入浅出 Koa2](https://github.com/berwin/Blog/issues/9)
+* [一篇文章构建你的 NodeJS 知识体系](https://juejin.im/post/5c4c0ee8f265da61117aa527)
 
 
 
 ## 算法
 
 * [JavaScript 算法之复杂度分析](https://juejin.im/post/5c2a1d9d6fb9a04a0f654581#comment)
+* [JS中可能用得到的全部的排序算法](https://juejin.im/post/58c9d5fb1b69e6006b686bce#comment)
 
 
 
@@ -146,3 +171,8 @@
 
 * [聊聊技术演讲的二三事](https://zhuanlan.zhihu.com/p/48987069)
 
+
+
+## 工具
+
+* [开发效率提升之工具篇](https://juejin.im/post/5909b4b5da2f60005d1f0bcb)
